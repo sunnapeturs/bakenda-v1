@@ -1,0 +1,18 @@
+body{
+    font-family: 'Lato', sans-serif;
+    width: 90%;
+    margin: 0 auto;
+}
+#main{
+    font-size: 12px;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.card{
+    width: 33%;;
+}
+img{
+    width: 240px;
+    height: 180px;
+}
